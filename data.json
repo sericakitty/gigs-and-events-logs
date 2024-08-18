@@ -225,6 +225,24 @@
           "title": "Kült x S.O.W presents: Abyss",
           "location": "Ravintola Wänski (Helsinki)",
           "date": "1.6.2024"
+        },
+        {
+          "id": 4,
+          "title": "Kotae Expo: Tokin Mega party",
+          "location": "Messu- ja Urheilukeskus (Tampere)",
+          "date": "29.6.2024"
+        },
+        {
+          "id": 5,
+          "title": "Tracon x Neonya!! Party",
+          "location": "Tullikamari (Tampere)",
+          "date": "7.9.2024"
+        },
+        {
+          "id": 6,
+          "title": "Neonya!! W.E.E.B",
+          "location": "Wäiski (Helsinki)",
+          "date": "TBA"
         }
       ]
     }
