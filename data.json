@@ -132,7 +132,7 @@
     {
       "id": 3,
       "year": 2023,
-      "isOpen": true,
+      "isOpen": false,
       "giglist": [
         {
           "id": 1,
@@ -242,7 +242,13 @@
           "id": 6,
           "title": "Neonya!! W.E.E.B",
           "location": "Wäiski (Helsinki)",
-          "date": "TBA"
+          "date": "5.10.2024"
+        },
+        {
+          "id": 7,
+          "title": "Marsupotamia 3: Shimmers & Shadows",
+          "location": "UG (Helsinki)",
+          "date": "30.11.2024"
         }
       ]
     }
