@@ -251,6 +251,19 @@
           "date": "30.11.2024"
         }
       ]
+    },
+    {
+      "id": 5,
+      "year": 2025,
+      "isOpen": true,
+      "giglist": [
+        {
+          "id": 1,
+          "title": "Neonya!! Party",
+          "location": "Lepakkomies (Helsinki)",
+          "date": "11.1.2025"
+        }
+      ]
     }
   ],
   "events": [
