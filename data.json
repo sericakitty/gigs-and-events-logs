@@ -206,7 +206,7 @@
     {
       "id": 4,
       "year": 2024,
-      "isOpen": true,
+      "isOpen": false,
       "giglist": [
         {
           "id": 1,
@@ -262,6 +262,12 @@
           "title": "Neonya!! Party",
           "location": "Lepakkomies (Helsinki)",
           "date": "11.1.2025"
+        },
+        {
+          "id": 2,
+          "title": "Psy Night",
+          "location": "TBA (Lahti)",
+          "date": "12.4.2025"
         }
       ]
     }
