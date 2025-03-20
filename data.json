@@ -263,10 +263,18 @@
           "location": "Lepakkomies (Helsinki)",
           "date": "11.1.2025"
         },
+        {"id": 2,
+          "title": "HyperSpace: Club Reverly 2.0 (Fill-In Set)",
+          "location": "Lepakkomies (Helsinki)",
+          "date": "28.2.2025"},
+        {"id": 3,
+          "title": "HyperSpace: Club Reverly 3.0",
+          "location": "Lepakkomies (Helsinki)",
+          "date": "4.4.2025"},
         {
-          "id": 2,
+          "id": 4,
           "title": "Psy Night",
-          "location": "TBA (Lahti)",
+          "location": "Torvi (Lahti)",
           "date": "12.4.2025"
         }
       ]
